@@ -22,6 +22,8 @@ log = logging.getLogger(__name__)
 
 
 USERS = [
+    "vipmath",    
+    "vipmath0206",
     "e-pluszak",
     "Entitled_Untitled",
     "Licetus",
